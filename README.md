@@ -5,7 +5,8 @@ Minimum Xcode version: 9
 
 Minimum Swift version: 4
 
-![Sample](./Strawberry.png =375x667)
+<img src="./Strawberry.png" width="375" height="667" />
+
 
 
 ----
