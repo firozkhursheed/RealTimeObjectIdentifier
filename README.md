@@ -5,7 +5,7 @@ Minimum Xcode version: 9
 
 Minimum Swift version: 4
 
-![Sample](./Strawberry.png)
+![Sample](./Strawberry.png =375x667)
 
 
 ----
